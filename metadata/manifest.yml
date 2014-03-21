@@ -16,6 +16,7 @@ Categories:
   - tomcat7
   - web_framework
 Website: http://tomcat.apache.org/
+Source-Url: https://github.com/fernandohc/openshift-cartridge-tomcat-community.git
 Help-Topics:
   "Developer Center": https://www.openshift.com/developers
 Cart-Data:
