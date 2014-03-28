@@ -5,7 +5,6 @@ Cartridge-Version: 0.0.1
 Display-Name: Tomcat 7.0
 Description: "Apache Tomcat 7 is an open source software implementation of the Java Servlet and JavaServer Pages technologies"
 Version: '7.0'
-Versions: ['7.0']
 License: LGPL
 License-Url: http://www.gnu.org/copyleft/lesser.txt
 Vendor: apache
